@@ -1,9 +1,9 @@
 # Apress Source Code
 
-This repository accompanies [*%title%*](https://www.link.springer.com/book/10.1007/%eisbn%) by %author% (Apress, %pubyear%).
+This repository accompanies [*Learn Java Fundamentals*](https://www.link.springer.com/book/10.1007/979-8-8688-0351-2) by Jeff Friesen (Apress, 2024).
 
 [comment]: #cover
-![Cover image](%isbn%.jpg)
+![Cover image](979-8-8688-0350-5.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
